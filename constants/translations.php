@@ -40,4 +40,5 @@ const RU_TRANS = [
     '| Suggested by ' => '| Предложено ',
     '| Linked from ' => '| Ссылки с ',
     '| [[Category:' => '| [[Категория:',
+    
 ];
